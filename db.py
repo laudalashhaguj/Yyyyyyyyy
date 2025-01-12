@@ -5,10 +5,10 @@ default_admins = [
     (2, '6654576379', 1)
 ]
 token = '7240194618:AAFfqpHZNse_7jKlmSn3Kx1ZbRz5p-UI38M'
-bot_name = 'MRBLACKEY-D-DoS'
-bot_username = '@MRBLACKEY_D_DoS_bot'
-owner_username = '@MR_BLACKEY'
-channel_username = '@MR_BLACKEY_HACKS'
+bot_name = '@GODNEXTbot'
+bot_username = '@GODNEXTbot'
+owner_username = '@NEONxCHEATZ3'
+channel_username = '@NEONxCHEATZ2'
 
 def initialize_db():
     conn = sqlite3.connect('bot_data.db')
